@@ -1,1 +1,5 @@
 hi this 1st file 
+
+
+================++> 
+this is the some thing i newly added in the feature branch 
